@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "480028987577",
+    "firebase_url": "https://snapchatnikhil.firebaseio.com",
+    "project_id": "snapchatnikhil",
+    "storage_bucket": "snapchatnikhil.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:480028987577:android:1dd339d9e236d21260cb68",
+        "android_client_info": {
+          "package_name": "com.example.snapchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "480028987577-r03hbvkteqemqcsocl73r5nbs39ndcou.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACmb-Xroo3vyA7zSkhasik0HS99nJDONM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "480028987577-r03hbvkteqemqcsocl73r5nbs39ndcou.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
